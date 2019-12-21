@@ -1,0 +1,415 @@
+2019-12-17T10:19:16+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T10:19:16+00:00 DEBUG Parsing products CSV.
+2019-12-17T10:19:16+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T10:19:16+00:00 DEBUG ---
+2019-12-17T10:19:16+00:00 DEBUG Processing products.
+2019-12-17T10:19:16+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T10:19:16+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Space Grey
+2019-12-17T10:19:16+00:00 DEBUG > Inserted - post ID is 8245368.
+2019-12-17T10:19:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-3-2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-3-2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-3-2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-2-1.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-2-1.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-2-1.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Images set
+2019-12-17T10:19:17+00:00 DEBUG > Finished importing post ID 8245368.
+2019-12-17T10:19:17+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T10:19:17+00:00 DEBUG > &#8220;Apple iPhone 6s (32GB) - Gold&#8221;Product with same SKU already exists. with post ID:8245288
+2019-12-17T10:19:17+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T10:19:17+00:00 DEBUG > Inserting Apple iPhone 11 (64GB) - Purple
+2019-12-17T10:19:17+00:00 DEBUG > Inserted - post ID is 8245369.
+2019-12-17T10:19:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Images set
+2019-12-17T10:19:17+00:00 DEBUG > Finished importing post ID 8245369.
+2019-12-17T10:19:17+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T10:19:17+00:00 DEBUG > Inserting Apple iPhone 11 Pro (64GB) - Space Grey
+2019-12-17T10:19:17+00:00 DEBUG > Inserted - post ID is 8245370.
+2019-12-17T10:19:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-17T10:19:17+00:00 DEBUG > > Images set
+2019-12-17T10:19:17+00:00 DEBUG > Finished importing post ID 8245370.
+2019-12-17T10:19:17+00:00 DEBUG > Row 5 - preparing for import.
+2019-12-17T10:19:17+00:00 DEBUG > Inserting Apple iPhone Xs (256GB) - Space Grey
+2019-12-17T10:19:17+00:00 DEBUG Failed to import product &#8220;Apple iPhone Xs (256GB) - Space Grey&#8221;
+2019-12-17T10:19:17+00:00 DEBUG Finished processing products.
+2019-12-17T11:39:16+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T11:39:16+00:00 DEBUG Parsing products CSV.
+2019-12-17T11:39:16+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T11:39:16+00:00 DEBUG ---
+2019-12-17T11:39:16+00:00 DEBUG Processing products.
+2019-12-17T11:39:16+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T11:39:16+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Space Grey
+2019-12-17T11:39:16+00:00 DEBUG > Inserted - post ID is 8245372.
+2019-12-17T11:39:16+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a-1.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Inserted image attachment "a-1.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a-1.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a-2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Inserted image attachment "a-2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a-2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Inserted image attachment "a.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Images set
+2019-12-17T11:39:16+00:00 DEBUG > Finished importing post ID 8245372.
+2019-12-17T11:39:16+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T11:39:16+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Gold
+2019-12-17T11:39:16+00:00 DEBUG > Inserted - post ID is 8245376.
+2019-12-17T11:39:16+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2-1.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Inserted image attachment "a2-1.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2-1.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2-2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Inserted image attachment "a2-2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2-2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Inserted image attachment "a2.jpg"
+2019-12-17T11:39:16+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Images set
+2019-12-17T11:39:17+00:00 DEBUG > Finished importing post ID 8245376.
+2019-12-17T11:39:17+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T11:39:17+00:00 DEBUG > Inserting Apple iPhone 11 (64GB) - Purple
+2019-12-17T11:39:17+00:00 DEBUG > Inserted - post ID is 8245380.
+2019-12-17T11:39:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3-1.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Inserted image attachment "a3-1.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3-1.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3-2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Inserted image attachment "a3-2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3-2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Inserted image attachment "a3.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Images set
+2019-12-17T11:39:17+00:00 DEBUG > Finished importing post ID 8245380.
+2019-12-17T11:39:17+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T11:39:17+00:00 DEBUG > Inserting Apple iPhone 11 Pro (64GB) - Space Grey
+2019-12-17T11:39:17+00:00 DEBUG > Inserted - post ID is 8245384.
+2019-12-17T11:39:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4-1.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Inserted image attachment "a4-1.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4-1.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4-2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Inserted image attachment "a4-2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4-2.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Inserted image attachment "a4.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4.jpg"
+2019-12-17T11:39:17+00:00 DEBUG > > Images set
+2019-12-17T11:39:17+00:00 DEBUG > Finished importing post ID 8245384.
+2019-12-17T11:39:17+00:00 DEBUG > Row 5 - preparing for import.
+2019-12-17T11:39:17+00:00 DEBUG > Inserting Apple iPhone Xs (256GB) - Space Grey
+2019-12-17T11:39:17+00:00 DEBUG Failed to import product &#8220;Apple iPhone Xs (256GB) - Space Grey&#8221;
+2019-12-17T11:39:17+00:00 DEBUG > Row 6 - preparing for import.
+2019-12-17T11:39:17+00:00 DEBUG > Inserting 
+2019-12-17T11:39:17+00:00 DEBUG > Inserted - post ID is 8245388.
+2019-12-17T11:39:17+00:00 DEBUG > Finished importing post ID 8245388.
+2019-12-17T11:39:17+00:00 DEBUG > Row 7 - preparing for import.
+2019-12-17T11:39:17+00:00 DEBUG > Inserting 
+2019-12-17T11:39:17+00:00 DEBUG > Inserted - post ID is 8245389.
+2019-12-17T11:39:17+00:00 DEBUG > Finished importing post ID 8245389.
+2019-12-17T11:39:17+00:00 DEBUG Finished processing products.
+2019-12-17T11:51:31+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T11:51:31+00:00 DEBUG Parsing products CSV.
+2019-12-17T11:51:31+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T11:51:31+00:00 DEBUG ---
+2019-12-17T11:51:31+00:00 DEBUG Processing products.
+2019-12-17T11:51:31+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T11:51:31+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Space Grey
+2019-12-17T11:51:31+00:00 DEBUG > Inserted - post ID is 8245391.
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a-1-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a-2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a-2-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a-2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a-3.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Images set
+2019-12-17T11:51:31+00:00 DEBUG > Finished importing post ID 8245391.
+2019-12-17T11:51:31+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T11:51:31+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Gold
+2019-12-17T11:51:31+00:00 DEBUG > Inserted - post ID is 8245395.
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a2-1-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2-2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a2-2-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2-2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a2-3.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Images set
+2019-12-17T11:51:31+00:00 DEBUG > Finished importing post ID 8245395.
+2019-12-17T11:51:31+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T11:51:31+00:00 DEBUG > Inserting Apple iPhone 11 (64GB) - Purple
+2019-12-17T11:51:31+00:00 DEBUG > Inserted - post ID is 8245399.
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a3-1-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3-2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a3-2-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3-2.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a3-3.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Images set
+2019-12-17T11:51:31+00:00 DEBUG > Finished importing post ID 8245399.
+2019-12-17T11:51:31+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T11:51:31+00:00 DEBUG > Inserting Apple iPhone 11 Pro (64GB) - Space Grey
+2019-12-17T11:51:31+00:00 DEBUG > Inserted - post ID is 8245403.
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Inserted image attachment "a4-1-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4-1.jpg"
+2019-12-17T11:51:31+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4-2.jpg"
+2019-12-17T11:51:32+00:00 DEBUG > > Inserted image attachment "a4-2-1.jpg"
+2019-12-17T11:51:32+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4-2.jpg"
+2019-12-17T11:51:32+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4.jpg"
+2019-12-17T11:51:32+00:00 DEBUG > > Inserted image attachment "a4-3.jpg"
+2019-12-17T11:51:32+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4.jpg"
+2019-12-17T11:51:32+00:00 DEBUG > > Images set
+2019-12-17T11:51:32+00:00 DEBUG > Finished importing post ID 8245403.
+2019-12-17T11:51:32+00:00 DEBUG > Row 5 - preparing for import.
+2019-12-17T11:51:32+00:00 DEBUG > Inserting Apple iPhone Xs (256GB) - Space Grey
+2019-12-17T11:51:32+00:00 DEBUG Failed to import product &#8220;Apple iPhone Xs (256GB) - Space Grey&#8221;
+2019-12-17T11:51:32+00:00 DEBUG Finished processing products.
+2019-12-17T11:59:00+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T11:59:00+00:00 DEBUG Parsing products CSV.
+2019-12-17T11:59:00+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T11:59:00+00:00 DEBUG ---
+2019-12-17T11:59:00+00:00 DEBUG Processing products.
+2019-12-17T11:59:00+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T11:59:00+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Space Grey
+2019-12-17T11:59:00+00:00 DEBUG > Inserted - post ID is 8245408.
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a-1-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a-2-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a-4.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Images set
+2019-12-17T11:59:00+00:00 DEBUG > Finished importing post ID 8245408.
+2019-12-17T11:59:00+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T11:59:00+00:00 DEBUG > Inserting Apple iPhone 6s (32GB) - Gold
+2019-12-17T11:59:00+00:00 DEBUG > Inserted - post ID is 8245412.
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a2-1-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a2-2-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a2-4.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Images set
+2019-12-17T11:59:00+00:00 DEBUG > Finished importing post ID 8245412.
+2019-12-17T11:59:00+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T11:59:00+00:00 DEBUG > Inserting Apple iPhone 11 (64GB) - Purple
+2019-12-17T11:59:00+00:00 DEBUG > Inserted - post ID is 8245416.
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a3-1-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a3-2-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a3.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a3-4.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a3.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Images set
+2019-12-17T11:59:00+00:00 DEBUG > Finished importing post ID 8245416.
+2019-12-17T11:59:00+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T11:59:00+00:00 DEBUG > Inserting Apple iPhone 11 Pro (64GB) - Space Grey
+2019-12-17T11:59:00+00:00 DEBUG > Inserted - post ID is 8245420.
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Inserted image attachment "a4-1-2.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4-1.jpg"
+2019-12-17T11:59:00+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4-2.jpg"
+2019-12-17T11:59:01+00:00 DEBUG > > Inserted image attachment "a4-2-2.jpg"
+2019-12-17T11:59:01+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4-2.jpg"
+2019-12-17T11:59:01+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/a4.jpg"
+2019-12-17T11:59:01+00:00 DEBUG > > Inserted image attachment "a4-4.jpg"
+2019-12-17T11:59:01+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/a4.jpg"
+2019-12-17T11:59:01+00:00 DEBUG > > Images set
+2019-12-17T11:59:01+00:00 DEBUG > Finished importing post ID 8245420.
+2019-12-17T11:59:01+00:00 DEBUG > Row 5 - preparing for import.
+2019-12-17T11:59:01+00:00 DEBUG > Inserting Apple iPhone Xs (256GB) - Space Grey
+2019-12-17T11:59:01+00:00 DEBUG Failed to import product &#8220;Apple iPhone Xs (256GB) - Space Grey&#8221;
+2019-12-17T11:59:01+00:00 DEBUG Finished processing products.
+2019-12-17T12:30:41+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T12:30:41+00:00 DEBUG Parsing products CSV.
+2019-12-17T12:30:41+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T12:30:41+00:00 DEBUG ---
+2019-12-17T12:30:41+00:00 DEBUG Processing products.
+2019-12-17T12:30:41+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T12:30:41+00:00 DEBUG > Inserting Xiaomi Mi A2 (Gold, 4GB RAM, 64GB Storage)
+2019-12-17T12:30:41+00:00 DEBUG > Inserted - post ID is 8245429.
+2019-12-17T12:30:41+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi-1.jpg"
+2019-12-17T12:30:42+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi-1.jpg"
+2019-12-17T12:30:42+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:42+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi-2.jpg"
+2019-12-17T12:30:43+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi-2.jpg"
+2019-12-17T12:30:43+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:43+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi.jpg"
+2019-12-17T12:30:44+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi.jpg"
+2019-12-17T12:30:44+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:44+00:00 DEBUG > > Images set
+2019-12-17T12:30:44+00:00 DEBUG > Finished importing post ID 8245429.
+2019-12-17T12:30:44+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T12:30:44+00:00 DEBUG > Inserting Mi Redmi 8 Smartphone (Onyx Black, 4GB RAM, 64GB Storage)
+2019-12-17T12:30:44+00:00 DEBUG > Inserted - post ID is 8245430.
+2019-12-17T12:30:44+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi2-1.jpg"
+2019-12-17T12:30:45+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi2-1.jpg"
+2019-12-17T12:30:45+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:45+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi2.jpg"
+2019-12-17T12:30:46+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi2.jpg"
+2019-12-17T12:30:46+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:46+00:00 DEBUG > > Images set
+2019-12-17T12:30:46+00:00 DEBUG > Finished importing post ID 8245430.
+2019-12-17T12:30:46+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T12:30:46+00:00 DEBUG > Inserting Xiaomi Redmi Note 3 (Gold, 16GB)
+2019-12-17T12:30:46+00:00 DEBUG > Inserted - post ID is 8245431.
+2019-12-17T12:30:46+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi3.jpg"
+2019-12-17T12:30:48+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi3.jpg"
+2019-12-17T12:30:48+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:48+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi3-2.jpg"
+2019-12-17T12:30:49+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi3-2.jpg"
+2019-12-17T12:30:49+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:49+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi3-1.jpg"
+2019-12-17T12:30:50+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi3-1.jpg"
+2019-12-17T12:30:50+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:50+00:00 DEBUG > > Images set
+2019-12-17T12:30:50+00:00 DEBUG > Finished importing post ID 8245431.
+2019-12-17T12:30:50+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T12:30:50+00:00 DEBUG > Inserting Mi Redmi 8 Ruby Red, 4GB RAM, 64GB Storage Smartphone
+2019-12-17T12:30:50+00:00 DEBUG > Inserted - post ID is 8245432.
+2019-12-17T12:30:50+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi4-1.jpg"
+2019-12-17T12:30:51+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi4-1.jpg"
+2019-12-17T12:30:51+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:51+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi4-2.jpg"
+2019-12-17T12:30:52+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi4-2.jpg"
+2019-12-17T12:30:52+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi4.jpg"
+2019-12-17T12:30:52+00:00 DEBUG > > Error importing image "http://localhost/mix-mobile/temp-img/mi4.jpg"
+2019-12-17T12:30:52+00:00 DEBUG > > Error getting remote image
+2019-12-17T12:30:52+00:00 DEBUG > > Images set
+2019-12-17T12:30:52+00:00 DEBUG > Finished importing post ID 8245432.
+2019-12-17T12:30:52+00:00 DEBUG Finished processing products.
+2019-12-17T12:30:55+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T12:30:55+00:00 DEBUG Parsing products CSV.
+2019-12-17T12:30:55+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T12:30:55+00:00 DEBUG ---
+2019-12-17T12:30:55+00:00 DEBUG Processing products.
+2019-12-17T12:30:55+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T12:30:55+00:00 DEBUG > Inserting OPPO Reno2 F (Lake Green, 8GB RAM, 128GB Storage)
+2019-12-17T12:30:55+00:00 DEBUG > Inserted - post ID is 8245433.
+2019-12-17T12:30:55+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Inserted image attachment "op1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op-1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Inserted image attachment "op-1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op-1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Images set
+2019-12-17T12:30:55+00:00 DEBUG > Finished importing post ID 8245433.
+2019-12-17T12:30:55+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T12:30:55+00:00 DEBUG > Inserting OPPO A7 (Glaze Blue, 3GB RAM, 64GB Storage)
+2019-12-17T12:30:55+00:00 DEBUG > Inserted - post ID is 8245436.
+2019-12-17T12:30:55+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op2.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Inserted image attachment "op2.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op2.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op2-1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Inserted image attachment "op2-1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op2-1.jpg"
+2019-12-17T12:30:55+00:00 DEBUG > > Images set
+2019-12-17T12:30:55+00:00 DEBUG > Finished importing post ID 8245436.
+2019-12-17T12:30:55+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T12:30:55+00:00 DEBUG > Inserting OPPO A5S (Green, 4GB RAM, 64GB Storage)
+2019-12-17T12:30:56+00:00 DEBUG > Inserted - post ID is 8245439.
+2019-12-17T12:30:56+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op3.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Inserted image attachment "op3.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op3.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op3-1.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Inserted image attachment "op3-1.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op3-1.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Images set
+2019-12-17T12:30:56+00:00 DEBUG > Finished importing post ID 8245439.
+2019-12-17T12:30:56+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T12:30:56+00:00 DEBUG > Inserting OPPO K3(Jade Black, 6GB RAM, AMOLED Display, 64GB Storage, 3765mAH Battery)
+2019-12-17T12:30:56+00:00 DEBUG > Inserted - post ID is 8245442.
+2019-12-17T12:30:56+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op4-1.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Inserted image attachment "op4-1.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op4-1.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op4-2.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Inserted image attachment "op4-2.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op4-2.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/op4.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Inserted image attachment "op4.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/op4.jpg"
+2019-12-17T12:30:56+00:00 DEBUG > > Images set
+2019-12-17T12:30:56+00:00 DEBUG > Finished importing post ID 8245442.
+2019-12-17T12:30:56+00:00 DEBUG Finished processing products.
+2019-12-17T12:33:52+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-17T12:33:52+00:00 DEBUG Parsing products CSV.
+2019-12-17T12:33:53+00:00 DEBUG Finished parsing products CSV.
+2019-12-17T12:33:53+00:00 DEBUG ---
+2019-12-17T12:33:53+00:00 DEBUG Processing products.
+2019-12-17T12:33:53+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-17T12:33:53+00:00 DEBUG > Inserting Xiaomi Mi A2 (Gold, 4GB RAM, 64GB Storage)
+2019-12-17T12:33:53+00:00 DEBUG > Inserted - post ID is 8245447.
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Images set
+2019-12-17T12:33:53+00:00 DEBUG > Finished importing post ID 8245447.
+2019-12-17T12:33:53+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-17T12:33:53+00:00 DEBUG > Inserting Mi Redmi 8 Smartphone (Onyx Black, 4GB RAM, 64GB Storage)
+2019-12-17T12:33:53+00:00 DEBUG > Inserted - post ID is 8245451.
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi2-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi2-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi2-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Images set
+2019-12-17T12:33:53+00:00 DEBUG > Finished importing post ID 8245451.
+2019-12-17T12:33:53+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-17T12:33:53+00:00 DEBUG > Inserting Xiaomi Redmi Note 3 (Gold, 16GB)
+2019-12-17T12:33:53+00:00 DEBUG > Inserted - post ID is 8245454.
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi3.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi3.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi3.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi3-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi3-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi3-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi3-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi3-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi3-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Images set
+2019-12-17T12:33:53+00:00 DEBUG > Finished importing post ID 8245454.
+2019-12-17T12:33:53+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-17T12:33:53+00:00 DEBUG > Inserting Mi Redmi 8 Ruby Red, 4GB RAM, 64GB Storage Smartphone
+2019-12-17T12:33:53+00:00 DEBUG > Inserted - post ID is 8245458.
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi4-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi4-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi4-1.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi4-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi4-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi4-2.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/mi4.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Inserted image attachment "mi4.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/mi4.jpg"
+2019-12-17T12:33:53+00:00 DEBUG > > Images set
+2019-12-17T12:33:53+00:00 DEBUG > Finished importing post ID 8245458.
+2019-12-17T12:33:53+00:00 DEBUG Finished processing products.

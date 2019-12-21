@@ -1,0 +1,48 @@
+2019-12-16T12:00:47+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-16T12:00:47+00:00 DEBUG Parsing products CSV.
+2019-12-16T12:00:47+00:00 DEBUG Finished parsing products CSV.
+2019-12-16T12:00:47+00:00 DEBUG ---
+2019-12-16T12:00:47+00:00 DEBUG Processing products.
+2019-12-16T12:00:47+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-16T12:00:47+00:00 DEBUG > &#8220;Samsung Galaxy M10s (Stainless Black, 3GB RAM, Super AMOLED Display, 32GB Storage, 4000mAH Battery)&#8221;Product with same ID already exists.
+2019-12-16T12:00:47+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-16T12:00:47+00:00 DEBUG > &#8220;Redmi Y3 (Prime Black, 3GB RAM, 32MP Selfie Camera, 32GB Storage, 4000mAH Battery)&#8221;Product with same ID already exists.
+2019-12-16T12:00:47+00:00 DEBUG Finished processing products.
+2019-12-16T12:03:01+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-16T12:03:01+00:00 DEBUG Parsing products CSV.
+2019-12-16T12:03:01+00:00 DEBUG Finished parsing products CSV.
+2019-12-16T12:03:01+00:00 DEBUG ---
+2019-12-16T12:03:01+00:00 DEBUG Processing products.
+2019-12-16T12:03:01+00:00 DEBUG > Row 1 - preparing for merge.
+2019-12-16T12:03:01+00:00 DEBUG > &#8220;8245283&#8221; is not a product.
+2019-12-16T12:03:01+00:00 DEBUG > Row 2 - preparing for merge.
+2019-12-16T12:03:01+00:00 DEBUG > &#8220;8245284&#8221; is not a product.
+2019-12-16T12:03:01+00:00 DEBUG Finished processing products.
+2019-12-16T12:05:09+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-16T12:05:09+00:00 DEBUG Parsing products CSV.
+2019-12-16T12:05:09+00:00 DEBUG Finished parsing products CSV.
+2019-12-16T12:05:09+00:00 DEBUG ---
+2019-12-16T12:05:09+00:00 DEBUG Processing products.
+2019-12-16T12:05:09+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-16T12:05:09+00:00 DEBUG > Inserting Samsung Galaxy M10s (Stainless Black, 3GB RAM, Super AMOLED Display, 32GB Storage, 4000mAH Battery)
+2019-12-16T12:05:09+00:00 DEBUG > Inserted - post ID is 8245287.
+2019-12-16T12:05:09+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-3-2.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-3-2.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-3-2.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-2-1.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-2-1.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1-2-1.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/vivo1.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Images set
+2019-12-16T12:05:09+00:00 DEBUG > Finished importing post ID 8245287.
+2019-12-16T12:05:09+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-16T12:05:09+00:00 DEBUG > Inserting Redmi Y3 (Prime Black, 3GB RAM, 32MP Selfie Camera, 32GB Storage, 4000mAH Battery)
+2019-12-16T12:05:09+00:00 DEBUG > Inserted - post ID is 8245288.
+2019-12-16T12:05:09+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/wp-content/uploads/2019/12/reno2.jpg"
+2019-12-16T12:05:09+00:00 DEBUG > > Images set
+2019-12-16T12:05:09+00:00 DEBUG > Finished importing post ID 8245288.
+2019-12-16T12:05:09+00:00 DEBUG Finished processing products.

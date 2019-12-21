@@ -1,0 +1,238 @@
+2019-12-18T06:46:34+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-18T06:46:34+00:00 DEBUG Parsing products CSV.
+2019-12-18T06:46:34+00:00 DEBUG Finished parsing products CSV.
+2019-12-18T06:46:34+00:00 DEBUG ---
+2019-12-18T06:46:34+00:00 DEBUG Processing products.
+2019-12-18T06:46:34+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-18T06:46:34+00:00 DEBUG > Inserting Vivo U10 (Electric Blue, 5000 mAH 18W Fast Charge Battery, 4GB RAM, 64GB Storage)
+2019-12-18T06:46:34+00:00 DEBUG > Inserted - post ID is 8245471.
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v1-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v1-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v1-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Images set
+2019-12-18T06:46:34+00:00 DEBUG > Finished importing post ID 8245471.
+2019-12-18T06:46:34+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-18T06:46:34+00:00 DEBUG > Inserting Vivo Y91 (Nebula Purple, 3GB RAM, 32GB Storage) 
+2019-12-18T06:46:34+00:00 DEBUG > Inserted - post ID is 8245474.
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v2-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v2-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v2-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v2-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v2-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v2-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Images set
+2019-12-18T06:46:34+00:00 DEBUG > Finished importing post ID 8245474.
+2019-12-18T06:46:34+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-18T06:46:34+00:00 DEBUG > Inserting Vivo Y90 (Black, 2GB RAM, 16GB Storage)
+2019-12-18T06:46:34+00:00 DEBUG > Inserted - post ID is 8245477.
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v3-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v3-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v3-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v3-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v3-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v3-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v3-3.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v3-3.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v3-3.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Images set
+2019-12-18T06:46:34+00:00 DEBUG > Finished importing post ID 8245477.
+2019-12-18T06:46:34+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-18T06:46:34+00:00 DEBUG > Inserting Vivo VZ1 Pro (Sonic Black, 4GB RAM, 64GB Storage)
+2019-12-18T06:46:34+00:00 DEBUG > Inserted - post ID is 8245481.
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v4-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v4-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v4-1.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Images set
+2019-12-18T06:46:34+00:00 DEBUG > Finished importing post ID 8245481.
+2019-12-18T06:46:34+00:00 DEBUG > Row 5 - preparing for import.
+2019-12-18T06:46:34+00:00 DEBUG > Inserting Vivo VZ1 Pro (Sonic Black, 4GB RAM, 64GB Storage)
+2019-12-18T06:46:34+00:00 DEBUG > Inserted - post ID is 8245483.
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v5-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v5-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v5-2.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/v5-3.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Inserted image attachment "v5-3.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/v5-3.jpg"
+2019-12-18T06:46:34+00:00 DEBUG > > Images set
+2019-12-18T06:46:34+00:00 DEBUG > Finished importing post ID 8245483.
+2019-12-18T06:46:34+00:00 DEBUG Finished processing products.
+2019-12-18T06:50:52+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-18T06:50:52+00:00 DEBUG Parsing products CSV.
+2019-12-18T06:50:52+00:00 DEBUG Finished parsing products CSV.
+2019-12-18T06:50:52+00:00 DEBUG ---
+2019-12-18T06:50:52+00:00 DEBUG Processing products.
+2019-12-18T06:50:52+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-18T06:50:52+00:00 DEBUG > Inserting Samsung Galaxy M10s (Stainless Black, 3GB RAM, Super AMOLED Display, 32GB Storage, 4000mAH Battery)
+2019-12-18T06:50:52+00:00 DEBUG > Inserted - post ID is 8245487.
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s1-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s1-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s1-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Images set
+2019-12-18T06:50:52+00:00 DEBUG > Finished importing post ID 8245487.
+2019-12-18T06:50:52+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-18T06:50:52+00:00 DEBUG > Inserting Samsung Galaxy M30s (Opal Black, 4GB RAM, Super AMOLED Display, 64GB Storage, 6000mAH Battery)
+2019-12-18T06:50:52+00:00 DEBUG > Inserted - post ID is 8245490.
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s2-1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s2-1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s2-1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s2-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s2-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s2-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s2-3.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s2-3.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s2-3.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Images set
+2019-12-18T06:50:52+00:00 DEBUG > Finished importing post ID 8245490.
+2019-12-18T06:50:52+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-18T06:50:52+00:00 DEBUG > Inserting Samsung Galaxy M40 (Midnight Blue, 6GB RAM, 128GB Storage)
+2019-12-18T06:50:52+00:00 DEBUG > Inserted - post ID is 8245495.
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s3-1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s3-1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s3-1.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s3-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s3-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s3-2.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s3.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Inserted image attachment "s3.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s3.jpg"
+2019-12-18T06:50:52+00:00 DEBUG > > Images set
+2019-12-18T06:50:52+00:00 DEBUG > Finished importing post ID 8245495.
+2019-12-18T06:50:52+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-18T06:50:52+00:00 DEBUG > Inserting Samsung Galaxy A50s (Prism Crush Violet, 6GB RAM, 128GB Storage)
+2019-12-18T06:50:52+00:00 DEBUG > Inserted - post ID is 8245499.
+2019-12-18T06:50:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s4.jpg"
+2019-12-18T06:50:53+00:00 DEBUG > > Inserted image attachment "s4.jpg"
+2019-12-18T06:50:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s4.jpg"
+2019-12-18T06:50:53+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/s3.jpg"
+2019-12-18T06:50:53+00:00 DEBUG > > Inserted image attachment "s3-3.jpg"
+2019-12-18T06:50:53+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/s3.jpg"
+2019-12-18T06:50:53+00:00 DEBUG > > Images set
+2019-12-18T06:50:53+00:00 DEBUG > Finished importing post ID 8245499.
+2019-12-18T06:50:53+00:00 DEBUG Finished processing products.
+2019-12-18T06:54:10+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-18T06:54:10+00:00 DEBUG Parsing products CSV.
+2019-12-18T06:54:10+00:00 DEBUG Finished parsing products CSV.
+2019-12-18T06:54:10+00:00 DEBUG ---
+2019-12-18T06:54:10+00:00 DEBUG Processing products.
+2019-12-18T06:54:10+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-18T06:54:10+00:00 DEBUG > Inserting Realme U1 (Ambitious Black, 3GB RAM, 32GB Storage)
+2019-12-18T06:54:10+00:00 DEBUG > Inserted - post ID is 8245503.
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r1-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r1-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r1-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Images set
+2019-12-18T06:54:10+00:00 DEBUG > Finished importing post ID 8245503.
+2019-12-18T06:54:10+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-18T06:54:10+00:00 DEBUG > Inserting Realme 3 Pro (Nitro Blue, 4GB RAM, 64GB Storage)
+2019-12-18T06:54:10+00:00 DEBUG > Inserted - post ID is 8245506.
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r2-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r2-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r2-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r2-2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r2-2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r2-2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Images set
+2019-12-18T06:54:10+00:00 DEBUG > Finished importing post ID 8245506.
+2019-12-18T06:54:10+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-18T06:54:10+00:00 DEBUG > Inserting OPPO Realme 5 Pro (Sparkling Blue, 64 GB, 4 GB RAM)
+2019-12-18T06:54:10+00:00 DEBUG > Inserted - post ID is 8245510.
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r4-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r4-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r4-1.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r4-2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Inserted image attachment "r4-2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r4-2.jpg"
+2019-12-18T06:54:10+00:00 DEBUG > > Images set
+2019-12-18T06:54:10+00:00 DEBUG > Finished importing post ID 8245510.
+2019-12-18T06:54:10+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-18T06:54:10+00:00 DEBUG > Inserting Realme C2 2GB 32GB (Diamond Blue)
+2019-12-18T06:54:10+00:00 DEBUG > Inserted - post ID is 8245513.
+2019-12-18T06:54:11+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r4-2.jpg"
+2019-12-18T06:54:11+00:00 DEBUG > > Inserted image attachment "r4-2-1.jpg"
+2019-12-18T06:54:11+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r4-2.jpg"
+2019-12-18T06:54:11+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/r4.jpg"
+2019-12-18T06:54:11+00:00 DEBUG > > Inserted image attachment "r4.jpg"
+2019-12-18T06:54:11+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/r4.jpg"
+2019-12-18T06:54:11+00:00 DEBUG > > Images set
+2019-12-18T06:54:11+00:00 DEBUG > Finished importing post ID 8245513.
+2019-12-18T06:54:11+00:00 DEBUG Finished processing products.
+2019-12-18T06:59:10+00:00 DEBUG ---[ New Import ] PHP Memory: 3 GB, WP Memory: 3 GB
+2019-12-18T06:59:10+00:00 DEBUG Parsing products CSV.
+2019-12-18T06:59:10+00:00 DEBUG Finished parsing products CSV.
+2019-12-18T06:59:10+00:00 DEBUG ---
+2019-12-18T06:59:10+00:00 DEBUG Processing products.
+2019-12-18T06:59:10+00:00 DEBUG > Row 1 - preparing for import.
+2019-12-18T06:59:10+00:00 DEBUG > Inserting OnePlus 7 Pro (Mirror Grey, 6GB RAM, Fluid AMOLED Display, 128GB Storage, 4000mAH Battery)
+2019-12-18T06:59:10+00:00 DEBUG > Inserted - post ID is 8245517.
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o1-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o1-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o1-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o1-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o1-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o1-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Images set
+2019-12-18T06:59:10+00:00 DEBUG > Finished importing post ID 8245517.
+2019-12-18T06:59:10+00:00 DEBUG > Row 2 - preparing for import.
+2019-12-18T06:59:10+00:00 DEBUG > Inserting OnePlus 7T (Glacier Blue, 8GB RAM, Fluid AMOLED Display, 128GB Storage, 3800mAH Battery)
+2019-12-18T06:59:10+00:00 DEBUG > Inserted - post ID is 8245521.
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o2-3.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o2-3.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o2-3.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o2-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o2-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o2-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o2-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o2-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o2-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Images set
+2019-12-18T06:59:10+00:00 DEBUG > Finished importing post ID 8245521.
+2019-12-18T06:59:10+00:00 DEBUG > Row 3 - preparing for import.
+2019-12-18T06:59:10+00:00 DEBUG > Inserting OnePlus 7T Pro (Haze Blue, 8GB RAM, Fluid AMOLED Display, 256GB Storage, 4085mAH Battery)
+2019-12-18T06:59:10+00:00 DEBUG > Inserted - post ID is 8245526.
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o3.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o3.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o3.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o3-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o3-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o3-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o3-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o3-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o3-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Images set
+2019-12-18T06:59:10+00:00 DEBUG > Finished importing post ID 8245526.
+2019-12-18T06:59:10+00:00 DEBUG > Row 4 - preparing for import.
+2019-12-18T06:59:10+00:00 DEBUG > Inserting OnePlus 5 (Slate Gray 6GB RAM + 64GB memory)
+2019-12-18T06:59:10+00:00 DEBUG > Inserted - post ID is 8245530.
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o4.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o4.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o4.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o4-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o4-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o4-2.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Importing image "http://localhost/mix-mobile/temp-img/o4-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Inserted image attachment "o4-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Imported image "http://localhost/mix-mobile/temp-img/o4-1.jpg"
+2019-12-18T06:59:10+00:00 DEBUG > > Images set
+2019-12-18T06:59:10+00:00 DEBUG > Finished importing post ID 8245530.
+2019-12-18T06:59:10+00:00 DEBUG Finished processing products.

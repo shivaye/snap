@@ -1,0 +1,6 @@
+2019-12-13T08:33:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\cdrive\htdocs\mix-mobile\wp-includes\class-wp-term-query.php on line 669
+
+2019-12-13T08:36:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\cdrive\htdocs\mix-mobile\wp-includes\wp-db.php on line 1924
+
+2019-12-13T09:29:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\cdrive\htdocs\mix-mobile\wp-includes\wp-db.php on line 1924
+
